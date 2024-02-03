@@ -32,9 +32,9 @@ namespace tarea1
 
         public static void CreateMaestro()
         {   
-            Docente CreateMaestro = new Docente();
+            Maestro CreateMaestro = new Maestro();
             CreateMaestro.FirstName = "Marisol";
-            CreateMaestro.LastName = "Camilo";
+            CreateMaestro.LastName = "CAMILO";
             CreateMaestro.Greeting();
         }
     }
